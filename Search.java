@@ -1,3 +1,11 @@
+/* 
+ * UTS DAA 2023 - Farouq Mulya Al Simabua - 2022071087
+ * 
+ * ----------------------------------------------------
+ * Program untuk mencari data menggunakan Binary Search
+ * ----------------------------------------------------
+ */
+
 class Searching {
     public static int[] data = null;
     public static int awal, tengah, akhir, temp, count;

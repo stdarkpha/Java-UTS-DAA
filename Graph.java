@@ -1,3 +1,11 @@
+/* 
+ * UTS DAA 2023 - Farouq Mulya Al Simabua - 2022071087
+ * 
+ * --------------------------------------------
+ * Program untuk mencari rute dari sebuah Graph
+ * --------------------------------------------
+ */
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
